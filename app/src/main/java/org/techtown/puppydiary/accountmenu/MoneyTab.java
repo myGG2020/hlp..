@@ -297,7 +297,6 @@ public class MoneyTab extends AppCompatActivity implements AdapterView.OnItemCli
     }
 
 
-
     public class ListAdapter extends BaseAdapter {
         private LayoutInflater inflater;
         private ArrayList<MoneytabItem> itemList;
